@@ -12,4 +12,4 @@ Constrains som skyddar min data:
 
 Med dessa regler skapar vi förutsättningen att inte felaktig data kan sparas i databasen.
 
-Om jag hade fortsätt jobba på detta projekt hade jag kunnat lägga till fler kontroller så att en klass intge kan bli fullbokad.
+Om jag hade fortsätt jobba på detta projekt hade jag kunnat lägga till fler kontroller så att en klass inte kan bli fullbokad.
