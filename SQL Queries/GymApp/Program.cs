@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using GymApp.Models;
 
+
 // Läs appsettings.json
 var configuration = new ConfigurationBuilder()
     .SetBasePath(Directory.GetCurrentDirectory())
