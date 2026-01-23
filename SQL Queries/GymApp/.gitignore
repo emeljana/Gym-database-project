@@ -1,1 +1,11 @@
+# .NET
+bin/
+obj/
+.vs/
+
+# macOS
+.DS_Store
+
+# App settings / secrets
 appsettings.json
+appsettings.Development.json
